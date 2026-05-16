@@ -1,8 +1,8 @@
 var searchData=
 [
-  ['fcnt_0',['fCnt',['../struct_lo_ra_w_a_n_event__t.html#a73ecb624afeda6ddb32c1007d3dcb846',1,'LoRaWANEvent_t']]],
-  ['fcscheckok_1',['fcsCheckOk',['../struct_l_r11x0_wifi_result_extended__t.html#a45bbafdcc16a5ae8ee52d0ea40b40326',1,'LR11x0WifiResultExtended_t']]],
-  ['fixedfport_2',['fixedFPort',['../struct_lo_ra_w_a_n_package__t.html#aa4070f6fcaf243912193539183dc21a2',1,'LoRaWANPackage_t']]],
+  ['fastcad_0',['fastCad',['../class_l_r2021.html#a24b3a41d84fc6a0ebc214479f163eb71',1,'LR2021']]],
+  ['fcnt_1',['fCnt',['../struct_lo_ra_w_a_n_event__t.html#a73ecb624afeda6ddb32c1007d3dcb846',1,'LoRaWANEvent_t']]],
+  ['fcscheckok_2',['fcsCheckOk',['../struct_l_r11x0_wifi_result_extended__t.html#a45bbafdcc16a5ae8ee52d0ea40b40326',1,'LR11x0WifiResultExtended_t']]],
   ['fport_3',['fPort',['../struct_lo_ra_w_a_n_event__t.html#a14f360e64ae4a6090c04333567f1a513',1,'LoRaWANEvent_t']]],
   ['framesubtype_4',['frameSubType',['../struct_l_r11x0_wifi_result_full__t.html#ab4f5ee1a99afca09242ae31ae8bc75c2',1,'LR11x0WifiResultFull_t']]],
   ['frametype_5',['frameType',['../struct_l_r11x0_wifi_result_full__t.html#aac254fd90872d9e3457a0c44409ff9fb',1,'LR11x0WifiResultFull_t']]],
